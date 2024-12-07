@@ -25,7 +25,7 @@
 	"uniqueName": "Might of Noxus",
 	"uniques": [
 		"When war is declared, all units receive a +10% combat stat boost and +5% utility stat boost for the duration of the war.",
-		"After capturing or annexing a city, all cities and the capital gain +50% to gold, science, and production.",
+		"After capturing or annexing a city, all cities and the capital gain +50% to gold, science, and production for 10 turns.",
 		"Captured cities suffer 50% less happiness for 5 turns. This penalty ignores happiness-reducing buildings.",
 		"After capturing a city, all units within 2 tiles of the city heal for 50% of their max health."
 	],
