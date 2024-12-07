@@ -1,0 +1,9 @@
+{
+  "name": "Civs-In-Runeterra",
+  "version": "1.0",
+  "author": "Your Name",
+  "description": "Adds Noxus and other Runeterra civilizations to UnCiv.",
+  "civilizations": [
+    "Noxus_Civ.json"
+  ]
+}
