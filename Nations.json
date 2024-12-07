@@ -1,0 +1,42 @@
+{
+	"name": "Noxus",
+	"leaderName": "Trifarix",
+	"adjective": ["Noxian"],
+	"startBias": ["Hills", "Plains", "Avoid [Tundra]", "Avoid [Desert]"],
+	"preferredVictoryType": "Domination",
+	"personality": ["War-First", "Strategic", "Ruthless"],
+
+	"startIntroPart1": "Noxus is a war driven nation filled with warriors and ready to capture anything in their path",
+	"startIntroPart2": "They focus on their military and strategic developments",
+
+	"declaringWar": "You have made a grave mistake. Prepare yourself!",
+	"attacked": "You have drawn my ire. I hope you are ready.",
+	"defeated": "It seems I’ve underestimated you. Perhaps I’ll find peace now.",
+	"introduction": "So, what brings you before me, warrior?",
+
+	"neutralHello": "Ah, you seek my help, do you?",
+	"hateHello": "You should rethink your choices.",
+
+	"tradeRequest": "You are not as foolish as you look. Let’s make this deal.",
+	
+	"outerColor": [139, 0, 0],  // Dark Red
+	"innerColor": [255, 69, 0],  // Bright Red
+	"favoredReligion": "Islam",
+	"uniqueName": "Might of Noxus",
+	"uniques": [
+		"When war is declared, all units receive a +10% combat stat boost and +5% utility stat boost for the duration of the war.",
+		"After capturing or annexing a city, all cities and the capital gain +50% to gold, science, and production.",
+		"Captured cities suffer 50% less happiness for 5 turns. This penalty ignores happiness-reducing buildings.",
+		"After capturing a city, all units within 2 tiles of the city heal for 50% of their max health."
+	],
+	"cities": [
+		"Immortal Bastion", "Noxar", "Bloodforge", "Warhold", "Ironclad Keep", 
+		"Blackspire", "Scarred Heights", "Ironfist City", "Ravager's Rest", 
+		"Forge of Tyranny", "The Bloody Citadel", "Warlord’s Refuge", "Ironhold Bastion"
+	],
+	"spyNames": [
+		"Malenor the Scourge", "Drakon the Unyielding", "Varan the Bloodhound", 
+		"Kaelen the Silent Blade", "Zevark the Shadow", "Rakoth the Fearsome", 
+		"Khoren the Cunning", "Vysir the Blade"
+	]
+}
